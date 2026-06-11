@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Githui Muriuki 👋
 
-### Senior Full-Stack Engineer · Backend-Focused
+### Senior Full-Stack Engineer 
 ### Node.js · Python · PostgreSQL · React · React Native · Flutter
 
 I build **scalable backend systems, payment integrations, and multi-tenant SaaS platforms** for fintech, insurtech, and e-commerce products. Based in **Nairobi, Kenya** — open to remote opportunities globally.
@@ -10,7 +10,7 @@ I build **scalable backend systems, payment integrations, and multi-tenant SaaS 
 ## 🔧 What I Build
 
 - **Backend APIs & Microservices** — NestJS, Express, Django REST Framework, GraphQL
-- **Payment Systems** — Mpesa, Stripe, PayPal integrations with PCI-DSS compliance and idempotency handling
+- **Payment Systems** — Mpesa, Stripe, Paystack, PayPal integrations with PCI-DSS compliance and idempotency handling
 - **Multi-tenant SaaS Platforms** — schema design, tenant isolation, role-based access control
 - **Mobile Applications** — React Native (Expo OTA), Flutter for Android & iOS
 - **DevOps & CI/CD** — GitHub Actions, Docker, AWS, DigitalOcean
